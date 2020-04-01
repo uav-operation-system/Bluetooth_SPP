@@ -1,0 +1,4 @@
+#Wed Apr 01 12:51:07 CST 2020
+base.0=E\:\\4-Axis_UAV\\Bluetooth_SPP\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
